@@ -1,0 +1,9 @@
+<PackageReference Include="AutoMapper" Version="10.1.1" />
+<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+base._mapper.Map<List<GatewayDTO>, List<DeviceGatewayEO>>(gateways)
+services.AddAutoMapper(typeof(ThingsIndustriesProfile));
+https://www.pragimtech.com/blog/blazor/using-automapper-in-asp.net-core/
+https://code-maze.com/automapper-net-core/
+https://jasonwatmore.com/post/2019/10/11/aspnet-core-3-jwt-authentication-tutorial-with-example-api
+https://code-maze.com/authentication-aspnetcore-jwt-1/
+
